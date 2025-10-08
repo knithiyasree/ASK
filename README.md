@@ -2,6 +2,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK .
 # Tools required
+Google colab
 # Program
 ```
 import numpy as np
@@ -54,5 +55,6 @@ plt.show()
 ## Output Waveform
 
 <img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/14d63c69-81e4-4336-807a-2aacee7deba5" />
-## Results
+# Result
+
 Thus ASK has been executed successfully using python.
